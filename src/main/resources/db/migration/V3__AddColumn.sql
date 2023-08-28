@@ -1,0 +1,2 @@
+ALTER TABLE users
+ADD type VARCHAR(255);
